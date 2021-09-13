@@ -1,0 +1,12 @@
+{
+    "JWTKEY": "APPTributarias2021OLOFSSON",
+    "LogoText": "Herramientas Tributarias",
+    "Lenguajes_es": {
+      "m001": "Mi Cuenta",
+      "m002": "Configuraciones",
+      "m003": "Formularios",
+      "m004": "Usuarios",
+      "m005": "Cerrar Session"      
+    },
+    "serverUrl":"http://localhost:5000"
+  }
